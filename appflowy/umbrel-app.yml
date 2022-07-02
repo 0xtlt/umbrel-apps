@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: appflowy
+category: Explorers
+name: AppFlowy
+version: "0.1.0"
+tagline: A notion like
+description: >-
+  Notion like
+developer: Hello world
+website: https://github.com/woofbotapp
+# dependencies:
+#   - bitcoin
+repo: https://github.com/woofbotapp/woofbotapp
+support: https://github.com/woofbotapp/woofbotapp/discussions
+port: 8099
+gallery:
+  - 1.jpg
+  - 2.jpg
+  - 3.jpg
+path: ""
+defaultUsername: ""
+defaultPassword: ""
