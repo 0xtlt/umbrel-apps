@@ -2,7 +2,7 @@ manifestVersion: 1
 id: ipfs-podcasting
 category: Files
 name: IPFS Podcasting
-version: "0.5"
+version: "0.6"
 tagline: Crowd-host podcasts over IPFS
 description: |-
   Turn your Umbrel into an IPFS node for self-hosting, crowd-hosting, and archiving of your favorite podcasts to the IPFS network.
@@ -22,3 +22,5 @@ gallery:
 - 3.jpg
 path: ''
 defaultPassword: ''
+submitter: IPFSPodcasting.net
+submission: https://github.com/getumbrel/umbrel/pull/1356
