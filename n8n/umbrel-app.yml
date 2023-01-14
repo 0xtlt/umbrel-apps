@@ -1,7 +1,7 @@
 manifestVersion: 1
-id: n8n
+id: n8nlatest
 category: Automation
-name: n8n
+name: n8n latest
 version: "0.207.1"
 tagline: Build complex workflows, really fast
 description: >-
@@ -30,5 +30,5 @@ gallery:
 path: ""
 defaultUsername: ""
 defaultPassword: ""
-submitter: Pranshu Agrawal
-submission: https://github.com/getumbrel/umbrel-apps/pull/283
+submitter: Thomas Tastet
+submission: https://github.com/getumbrel/umbrel-apps
