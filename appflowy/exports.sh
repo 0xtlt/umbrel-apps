@@ -1,2 +1,0 @@
-export APP_FLOWY_WEB_IP="10.21.21.105"
-export APP_FLOWY_WEB_PORT="8092"
